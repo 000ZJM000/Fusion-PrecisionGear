@@ -1,0 +1,2 @@
+# Fusion-PrecisionGear
+一个支持变位系数等多参数可调的Fusion直齿轮草图绘制插件
